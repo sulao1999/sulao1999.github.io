@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/pokemon-official-2017-square-calendar.jpg
+image: images/pokemon-official-square-calendar.jpg
 title: Pokemon
 permalink: projects/pokemon-game
 # All dates must be YYYY-MM-DD format!
