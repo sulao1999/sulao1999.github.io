@@ -12,7 +12,7 @@ labels:
 summary: Use the RPG maker to create a RPG game.
 ---
 
-  <img class="ui image" src="../images/rpg-maker-engine.png">
+  <img class="ui image" src="../images/rpg-maker-engine.jpg">
 
 In this project, I am trying to use a game engine to develop a game from scratch. Although the game engine has many functions that help create a game, the project is very difficult. Using a game engine is very similar to writing a program. Creating scenes, dialogues, and characters, similar to writing functions and objects in programming languages, also the difficulty between developing a game and coding is very similar too. The difficulty of making a game is proportional to the size of the game because each element must be related to each other.
 
