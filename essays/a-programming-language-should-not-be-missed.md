@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: A programming language should not be missed
+title: A Programming Language Should Not Ne Missed
 date: 2021-01-17
 labels:
   - Javascript
