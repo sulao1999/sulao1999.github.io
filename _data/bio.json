@@ -67,6 +67,26 @@
   ],
   "education": [
     {
+      "institution": "President William McKinley High School, Honolulu, HI",
+      "area": "General Education",
+      "studyType": "High School Diploma",
+      "startDate": "2013",
+      "endDate": "2017",
+      "gpa": "",
+      "courses": [
+      ]
+    },
+    {
+      "institution": "Kapiʻolani Community College, Honolulu, HI",
+      "area": "Computer Science",
+      "studyType": "B.S.",
+      "startDate": "2017",
+      "endDate": "2020",
+      "gpa": "",
+      "courses": [
+      ]
+    },
+    {
       "institution": "University of Hawaii, Honolulu, HI",
       "area": "Computer Science (expected Spring, 2023)",
       "studyType": "B.S.",
@@ -91,6 +111,18 @@
       ]
     },
   ],
+    "volunteer": [
+    {
+      "organization": "Kapi'olani Service-Learning",
+      "website": "https://kapiolaniserve.weebly.com/",
+      "position": "Assistant",
+      "startDate": "2018",
+      "endDate": "2018",
+      "summary": "Helping others",
+      "highlights": [
+        "Development communication"
+      ]
+    },
   "references": [
     {
       "name": "Available upon request",
