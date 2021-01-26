@@ -3,7 +3,7 @@ layout: essay
 type: essay
 title: Only smart questions will not waste time 
 # All dates must be YYYY-MM-DD format!
-date: 2015-08-26
+date: 2021-01-25
 labels:
   - Software Engineer
   - Learning
