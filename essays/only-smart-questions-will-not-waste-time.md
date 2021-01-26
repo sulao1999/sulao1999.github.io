@@ -19,13 +19,5 @@ On the other hand, "Isn't this correct in C++?" This is an example of an unwise 
 In short, asking a smart question will get a good answer and learn from it. Unwise questions will only waste time. Before asking a question, problemer should search on Google or debug the programmer. Not smart questions will show people your coding level, and people may say RTFM or STFW, and call the asker like loser or luser. Everyone has a busy life, so it is important not to waste other people's time. 
 
 
-
-
-
-Here is a link to [What is the most efficient way to deep clone an object in JavaScript?](https://stackoverflow.com/questions/122102/what-is-the-most-efficient-way-to-deep-clone-an-object-in-javascript).
-
-Here is a link to [Isn't this correct in C++?](https://stackoverflow.com/questions/37920478/isnt-this-correct-in-c).
-
-
-Source: <a href="https://stackoverflow.com/questions/122102/what-is-the-most-efficient-way-to-deep-clone-an-object-in-javascript"> What is the most efficient way to deep clone an object in JavaScript? </a> 
-Source: <a href="https://stackoverflow.com/questions/37920478/isnt-this-correct-in-c"> Isn't this correct in C++? </a> 
+Here is a link to [What is the most efficient way to deep clone an object in JavaScript?](https://stackoverflow.com/questions/122102/what-is-the-most-efficient-way-to-deep-clone-an-object-in-javascript)
+Here is a link to [Isn't this correct in C++?](https://stackoverflow.com/questions/37920478/isnt-this-correct-in-c)
