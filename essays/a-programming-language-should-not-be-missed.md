@@ -12,13 +12,12 @@ labels:
 Javascript is a very powerful programming language. As long as a programmer has experience based in Java, C, and other similar programming languages, then learning the basics of Javascript will be easy. On the way to learn the basics of Javascript, programmers may find it easier to code, and have a high probability. If it is only based on the basic experience of Javascript, it can be considered as an improved programming language of Java and C.
 
 Different from Java or C programming language, Javascript will be more convenient to change the keyword, function, and object, thus shortening the coding time and making the whole code clearer. 
-For example: 
-In Java, every variable is assigned data type 
+For example, In Java, every variable is assigned data type :
 ``` 
 int x = 0; 
 String str = new String(); //object
 ``` 
-In Javascript, can use keyword let to declare a variable, object, array;
+In Javascript, can use keyword let to declare a variable, object, array:
 ```
 let x = 0;
 let str = " ";
