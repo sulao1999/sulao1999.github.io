@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: Software engineering connects the future of programmers
+title: Software Engineering Connects The Future Of Programmers
 date: 2021-01-10
 labels:
   - Software Engineering
