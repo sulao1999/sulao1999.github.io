@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: Only smart questions will not waste time 
+title: Only Smart Questions Will Not Waste Time 
 # All dates must be YYYY-MM-DD format!
 date: 2021-01-25
 labels:
