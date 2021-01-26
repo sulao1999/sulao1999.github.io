@@ -27,5 +27,5 @@ Here is a link to [What is the most efficient way to deep clone an object in Jav
 Here is a link to [Isn't this correct in C++?](https://stackoverflow.com/questions/37920478/isnt-this-correct-in-c).
 
 
-# Source: <a href="https://stackoverflow.com/questions/122102/what-is-the-most-efficient-way-to-deep-clone-an-object-in-javascript"> What is the most efficient way to deep clone an object in JavaScript? </a> 
-# Source: <a href="https://stackoverflow.com/questions/37920478/isnt-this-correct-in-c"> Isn't this correct in C++? </a> 
+Source: <a href="https://stackoverflow.com/questions/122102/what-is-the-most-efficient-way-to-deep-clone-an-object-in-javascript"> What is the most efficient way to deep clone an object in JavaScript? </a> 
+Source: <a href="https://stackoverflow.com/questions/37920478/isnt-this-correct-in-c"> Isn't this correct in C++? </a> 
