@@ -29,7 +29,7 @@ Controller example [code](https://github.com/manoa-hunger-helper/manoa-hunger-he
 <Route exact path="/" component={Landing}/>
 ```
 
-Another very useful design pattern is the Singleton pattern, which is combined with the [Publish-Subscribe](https://guide.meteor.com/data-loading.html) design pattern (similar to the Observer design pattern). This solves the problem that the interface may display before the data is ready. If the data is not loaded before the page is displayed, it may cause an application error. This design pattern makes it easier for the program to interact with the database collection, such as shows data in interface ([similar view](https://github.com/manoa-hunger-helper/manoa-hunger-helper/blob/master/app/imports/ui/pages/AdminManageVendors.jsx)) , adding, editing and deleting.
+Another very useful design pattern is the Singleton pattern, which is combined with the [Publish-Subscribe](https://guide.meteor.com/data-loading.html) design pattern (similar to the Observer design pattern). This solves the problem that the interface may display before the data is ready. If the data is not loaded before the page is displayed, it may cause an application error. This design pattern makes it easier for the program to interact with the database collection, such as shows data in interface ([view above](https://github.com/manoa-hunger-helper/manoa-hunger-helper/blob/master/app/imports/ui/pages/AdminManageVendors.jsx)) , adding, editing and deleting.
 
 Singleton pattern example [code](https://github.com/manoa-hunger-helper/manoa-hunger-helper/blob/master/app/imports/api/menu/FoodMenu.js):
 ```
