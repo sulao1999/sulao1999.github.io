@@ -10,7 +10,7 @@ labels:
   - Database
 ---
 
-Design patterns are one of the most beautiful/important elements in the software development process. Design patterns can help developers create almost complete applications quickly and easily. My [last project in the ICS 314 course](https://manoa-hunger-helper.github.io/) was to use [Meteor](https://www.meteor.com/) to create an application with a user interface, database, and interaction with the database. In this project, the design pattern provided me with the optimal solution to different kind of problems, and allow me to reuse the code in different part of the porject.
+Design patterns are one of the most beautiful/important elements in the software development process. Design patterns can help developers create almost complete applications quickly and easily. My [last project in the ICS 314 course](https://manoa-hunger-helper.github.io/) was to use [Meteor](https://www.meteor.com/) to create an application with a user interface, database, and interaction with the database. In this project, the design pattern provided me with the optimal solution to different kind of problems, and allow me to reuse the code in different part of the project.
 
 The most important design pattern in this application is the Model-View-Controller design pattern. The model in the application is [collections](https://docs.meteor.com/api/collections.html) in the mongo database. The view is traverse the database and create cards or tables about the data so that users can view the data in the interface. The controller use in this application is react-router-dom.
 
@@ -29,7 +29,7 @@ Controller example [code](https://github.com/manoa-hunger-helper/manoa-hunger-he
 <Route exact path="/" component={Landing}/>
 ```
 
-Another very useful design pattern is the Singleton pattern, which is combined with the [Publish-Subscribe](https://guide.meteor.com/data-loading.html) design pattern (similar to the Observer design pattern). This solves the problem that the interface may display before the data is ready. If the data is not loaded before the page is displayed, it may cause an application error. This design pattern makes it easier for the program to interact with the database collection, such as shows data in interface ([code](https://github.com/manoa-hunger-helper/manoa-hunger-helper/blob/master/app/imports/ui/pages/AdminManageVendors.jsx)) , adding, editing and deleting.
+Another very useful design pattern is the Singleton pattern, which is combined with the [Publish-Subscribe](https://guide.meteor.com/data-loading.html) design pattern (similar to the Observer design pattern). This solves the problem that the interface may display before the data is ready. If the data is not loaded before the page is displayed, it may cause an application error. This design pattern makes it easier for the program to interact with the database collection, such as shows data in interface ([similar view](https://github.com/manoa-hunger-helper/manoa-hunger-helper/blob/master/app/imports/ui/pages/AdminManageVendors.jsx)) , adding, editing and deleting.
 
 Singleton pattern example [code](https://github.com/manoa-hunger-helper/manoa-hunger-helper/blob/master/app/imports/api/menu/FoodMenu.js):
 ```
