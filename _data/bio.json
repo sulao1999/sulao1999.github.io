@@ -52,7 +52,8 @@
         "C",
         "C++",
         "Java",
-        "Javascript"
+        "Javascript",
+        "HTML"
       ]
     },
     {
@@ -61,7 +62,9 @@
       "keywords": [
         "Windows",
         "Ubuntu",
-        "Git/GitHub"
+        "Git/GitHub",
+        "Semantic UI",
+        "Meteor"
       ]
     }
   ],
