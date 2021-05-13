@@ -14,4 +14,5 @@ labels:
   Every programmer has different preferences for the development environment, general are called Integrated development environment (IDE). Integrated development environment usually come with a text code editor that helps developers easily write software code. It should some awesome features like syntax highlighting, automatic completion of specific programming languages, and check whether there are errors in the code being written (Could use [coding standards](https://sulao1999.github.io/essays/use-coding-standards-to-get-future-self-thanks.html) to check errors too). Some Integrated development include compiler, and debugger. If you want to try an integrated development environment, [IntelliJ IDEA](https://www.jetbrains.com/idea/) will be a good choice.
 
 Here is the syntax highlighting example in [IntelliJ IDEA](https://www.jetbrains.com/idea/):
+
 <img class="ui image" src="../images/js-example.jpg">
