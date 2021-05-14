@@ -1,6 +1,7 @@
 ---
 layout: essay
 type: essay
+published: false
 title: Software Engineering Connects The Future Of Programmers
 date: 2021-01-10
 labels:
