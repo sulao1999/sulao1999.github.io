@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/web-app.JPG
+image: images/web-app.jpg
 title: Web Application
 permalink: projects/web-application
 # All dates must be YYYY-MM-DD format!
@@ -15,7 +15,7 @@ labels:
 summary: Use Meteor, Semantic UI React to create and deploy a web application.
 ---
 
-  <img src="../images/allvendors-page.jpg">
+  <img src="../images/allvendors-page.png">
 
 This is the final project of ICS 314. The main purpose is to use all the knowledge we have learned in ICS 314 to create a fully functional web application. The project is mainly aimed at people who have to spend a full day at the University of Hawaii at Manoa. UH Manoa has many different types of food vendors. Sometimes it is difficult to make a choice and keep track of when the vendor opens. The application can solve all problems. For example, it will display all vendors in UH Manoa on the All Vendors page. Allow users to find the menu on the menu page, and make the page filter out all closed vendors, the page only displays the open vendors at the time. Furthermore, the application also allow vendor to edit the information.
 
