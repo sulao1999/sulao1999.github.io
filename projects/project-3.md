@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/web-app.jpg
+image: images/web-app.png
 title: Web Application
 permalink: projects/web-application
 # All dates must be YYYY-MM-DD format!
