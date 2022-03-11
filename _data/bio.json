@@ -4,12 +4,12 @@
     "label": "Student",
     "picture": "https://sulao1999.github.io/images/su.jpg",
     "email": "sulao@hawaii.edu",
-    "phone": "",
+    "phone": "808-428-9834",
     "website": "https://sulao1999.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2023. Hope to create some very profitable games.",
+    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Fall, 2022.",
     "location": {
-      "address": "",
-      "postalCode": "96822",
+      "address": "1737 S Beretania St Apt 301 A",
+      "postalCode": "96826",
       "city": "Honolulu",
       "countryCode": "USA",
       "region": "Hawaii"
@@ -53,7 +53,10 @@
         "C++",
         "Java",
         "Javascript",
-        "HTML"
+        "Python",
+        "Lisp",
+        "HTML",
+        "CSS",
       ]
     },
     {
@@ -61,10 +64,11 @@
       "level": "",
       "keywords": [
         "Windows",
-        "Ubuntu",
+        "Linux",
         "Git/GitHub",
         "Semantic UI",
         "Meteor"
+        "React"
       ]
     }
   ],
@@ -93,7 +97,7 @@
       "institution": "University of Hawaii, Honolulu, HI",
       "area": "Computer Science (expected Spring, 2023)",
       "studyType": "B.S.",
-      "startDate": "2017-08-21",
+      "startDate": "2020-08-21",
       "endDate": "Present",
       "gpa": "",
       "courses": [
