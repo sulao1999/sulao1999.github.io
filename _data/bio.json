@@ -107,15 +107,17 @@
   ],
   "work": [
     {
-      "company": "Bakery",
-      "position": "General laborer",
+      "company": "Volunteer Ally",
+      "position": "Software developers",
       "website": "",
-      "startDate": "2015",
-      "endDate": "2017",
-      "summary": "Cleaning",
+      "startDate": "2022",
+      "endDate": "Current",
+      "summary": "develop a web application that provides a platform for people who want to become volunteers to easily find organizations and opportunities, volunteers can also track their volunteer hours, the opportunities they sign up for. ",
       "highlights": [
-        "Carry out heavy cleaning tasks",
-        "Cleaning facility areas"
+        "Javascript",
+        "Web application",
+        "Software development",
+        "Software Development Life Cycle"
       ]
     },
   ],
